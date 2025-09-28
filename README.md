@@ -1,5 +1,7 @@
 # ShijimiSerif
 
+<img src="https://github.com/uimss/shijimi_serif/blob/main/preview/preview_1.png?raw=true" width="30%"> <img src="https://github.com/uimss/shijimi_serif/blob/main/preview/preview_2.png?raw=true" width="30%"> <img src="https://github.com/uimss/shijimi_serif/blob/main/preview/preview_3.png?raw=true" width="30%">
+
 **ShijimiSerif** is a proportional pixel serif font that contains Latin letters, hiragana, and katakana. 
 It was created to be used together with fonts such as **Misaki Mincho**, which are built on a 7px-high grid.
 
